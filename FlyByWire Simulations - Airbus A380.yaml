@@ -1013,38 +1013,54 @@ shared:
     var_name: L:A32NX_OVHD_COCKPITDOORVIDEO_TOGGLE
  
   - #HYD
-    type: var
-    var_name: L:A32NX_HYD_ENG1PUMP_FAULT
   -
     type: var
-    var_name: L:A32NX_HYD_ENG1PUMP_TOGGLE
+    var_name: L:A32NX_LOCK_OVHD_HYD_ENG1_AB
   -
     type: var
-    var_name: L:A32NX_HYD_ENG2PUMP_FAULT
+    var_name: L:A32NX_LOCK_OVHD_HYD_ENG2_AB
   -
     type: var
-    var_name: L:A32NX_HYD_ENG2PUMP_TOGGLE
+    var_name: L:A32NX_LOCK_OVHD_HYD_ENG3_AB  
   -
     type: var
-    var_name: L:A32NX_HYD_ELECPUMP_FAULT
+    var_name: L:A32NX_LOCK_OVHD_HYD_ENG4_AB
   -
     type: var
-    var_name: L:A32NX_HYD_ELECPUMP_TOGGLE
+    var_name: L:A32NX_OVHD_HYD_ENG_1AB_PUMP_DISC_PB_IS_AUTO
   -
     type: var
-    var_name: L:A32NX_HYD_ELECPUMPLOCK_TOGGLE
+    var_name: L:A32NX_OVHD_HYD_ENG_2AB_PUMP_DISC_PB_IS_AUTO
   -
     type: var
-    var_name: L:A32NX_HYD_PTU_FAULT
+    var_name: L:A32NX_OVHD_HYD_ENG_3AB_PUMP_DISC_PB_IS_AUTO
   -
     type: var
-    var_name: L:A32NX_HYD_PTU_TOGGLE
+    var_name: L:A32NX_OVHD_HYD_ENG_4AB_PUMP_DISC_PB_IS_AUTO   
   -
     type: var
-    var_name: L:A32NX_HYD_ELECPUMPY_FAULT
+    var_name: L:A32NX_OVHD_HYD_ENG_1A_PUMP_PB_IS_AUTO
   -
     type: var
-    var_name: L:A32NX_HYD_ELECPUMPY_TOGGLE
+    var_name: L:A32NX_OVHD_HYD_ENG_1B_PUMP_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_HYD_ENG_2A_PUMP_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_HYD_ENG_2B_PUMP_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_HYD_ENG_3A_PUMP_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_HYD_ENG_3B_PUMP_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_HYD_ENG_4A_PUMP_PB_IS_AUTO
+  -
+    type: var
+    var_name: L:A32NX_OVHD_HYD_ENG_4B_PUMP_PB_IS_AUTO
   -
     type: var
     var_name: L:A32NX_ENGMANSTART1LOCK_TOGGLE
