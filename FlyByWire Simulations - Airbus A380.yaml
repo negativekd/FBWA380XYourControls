@@ -857,12 +857,10 @@ shared:
   -
     type: var
     var_name: L:A32NX_ELEC_IDG2_FAULT
-
-      -
+  -
     type: var
     var_name: L:A32NX_ELEC_IDG3_FAULT
-
-      -
+  -
     type: var
     var_name: L:A32NX_ELEC_IDG4_FAULT
   -
@@ -962,7 +960,7 @@ shared:
   -
    type: var
    var_name: L:PUSH_EFIS_FO_VV   
-  #ECAM PBS
+#ECAM PBS
   -
     type: var
     var_name: L:PUSH_ECAM_CLR_LH
@@ -973,14 +971,14 @@ shared:
     type: var
     var_name: L:PUSH_ECAM_CHECK_RH     
   -
-   type: var
-   var_name: L:PUSH_ECAM_ELAC
+    type: var
+    var_name: L:PUSH_ECAM_ELAC
   -
-   type: var
-   var_name: L:PUSH_ECAM_ELDC
+    type: var
+    var_name: L:PUSH_ECAM_ELDC
   -
-   type: var
-   var_name: L:PUSH_ECAM_CB
+    type: var
+    var_name: L:PUSH_ECAM_CB
   -
     type: var
     var_name: L:PUSH_ABNPROC
@@ -1012,7 +1010,7 @@ shared:
     type: var
     var_name: L:A32NX_OVHD_COCKPITDOORVIDEO_TOGGLE
  
-  - #HYD
+  #HYD
   -
     type: var
     var_name: L:A32NX_LOCK_OVHD_HYD_ENG1_AB
@@ -1135,7 +1133,6 @@ shared:
     var_name: L:A32NX_OVHD_HYD_BLUEPUMP_OVRD
   -
     type: var
-    
     var_name: L:A32NX_OVHD_HYD_LEAK_MEASUREMENT_G_PB_IS_AUTO
   -
     type: var
